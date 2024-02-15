@@ -1,0 +1,1 @@
+This is a JavaScript version of the popular household game "Simon".  Please note that unlike the original version, in this web version, only the appended note is played by the system.  Meaning that you must remember all previous notes while appending the most recently played note on the end.
